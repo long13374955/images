@@ -1,2 +1,2 @@
 # images
-表情图床
+wordpress静态文件和图片文件
